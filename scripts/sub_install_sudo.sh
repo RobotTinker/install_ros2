@@ -1,6 +1,6 @@
 #!/bin/bash
 # Date: 12:48 2023-06-04
-# Description: This scripts function is install ros2
+# Description: This scripts function is install sudo
 # Version: 1.1
 
 . ./sub_printf.sh
